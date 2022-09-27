@@ -29,5 +29,3 @@
 - JWT (JSON Web Token)
 - OAuth2
 <h1></h1>
-
-### Special Thanks to **JavaScript Mastery** !! for this Amazing Tutorial on Building a MERN Stack App.
